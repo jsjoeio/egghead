@@ -1,0 +1,14 @@
+
+# Created by https://www.gitignore.io/api/node
+
+### Node ###
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# .env files
+.env
