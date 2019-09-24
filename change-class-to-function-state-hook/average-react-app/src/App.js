@@ -1,6 +1,7 @@
 import React from 'react'
 import { Container, InnerContainer } from './App.styles'
 import { FeedbackClassComponent } from './components/Feedback/Feedback.class'
+import { FeedbackFunctionComponent } from './components/Feedback/Feedback.function'
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <h1>Fake Web App</h1>
       <InnerContainer>
         <FeedbackClassComponent />
+        <FeedbackFunctionComponent />
       </InnerContainer>
     </Container>
   )
