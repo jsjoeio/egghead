@@ -1,0 +1,3 @@
+# Use the Effect Hook in Function Components
+
+In this lesson, you will learn how to use the Effect Hook in function components. Similar to the State Hook, the Effect Hook is “first-class” in React and handy for performing side effects in function components. The Effect Hook is called by passing a function as the first argument. Here, you can perform side effects. If needed, you can pass an optional second argument, which is an array of dependencies. This tells React, "Only run my effect when these values change."
