@@ -7,7 +7,7 @@ export function FeedbackEffectComponent() {
     async function getStarWarsQuote() {
       // Get initial text
       const response = await fetch(
-        'http://swquotesapi.digitaljedi.dk/api/SWQuote/RandomStarWarsQuote'
+        'https://starwars-quote-proxy-gi0d3x1lz.now.sh/api/randomQuote'
       )
       const data = await response.json()
       const quote = data.starWarsQuote
