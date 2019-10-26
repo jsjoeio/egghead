@@ -1,3 +1,11 @@
+# Write a Custom State Hook
+
+Writing your own custom State Hook is not as a daunting as you think. To keep things simple, we'll refactor our `text` state value that uses `useState` and instead create a custom hook called `useText`.
+
+Remember, hooks can only be used inside function components.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +74,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+

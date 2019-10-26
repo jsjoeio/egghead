@@ -1,3 +1,10 @@
+# Write a Custom Effect Hook
+
+Similar to writing a custom State Hook, we’ll write our own Effect Hook called `useStarWarsQuote`, which returns a random quote and a loading state.
+
+Remember, hooks can only be used inside function components.
+
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +73,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
