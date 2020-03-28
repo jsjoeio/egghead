@@ -4,4 +4,4 @@ The source code for all [my lessons on egghead](https://egghead.io/instructors/j
 
 ## Blog
 
-Some of my lessons are also featured in written form on [my blog](https://joeprevite.com/).
+Most of my lessons are also featured in written form on [my blog](https://joeprevite.com/).
